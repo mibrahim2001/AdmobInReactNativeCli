@@ -1,0 +1,8 @@
+{
+  "name": "FirebaseProject",
+  "displayName": "FirebaseProject",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3786803654240519~2924361489",
+    "ios_app_id": "ca-app-pub-3786803654240519~2924361489"
+  }
+}
